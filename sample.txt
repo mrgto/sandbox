@@ -2,5 +2,4 @@ Hello.How do you do?
 This is a test file.
 This is the second edit.
 A file is added.
-EIF
-
+EOF
