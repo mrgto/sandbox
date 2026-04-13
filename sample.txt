@@ -1,1 +1,2 @@
-2026-04-13
+<Previous content of sample.txt>
+2026-04-13 晴れ
